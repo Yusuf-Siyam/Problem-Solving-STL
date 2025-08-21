@@ -27,4 +27,4 @@ int main()
     
     cout << endl;
 }
-// vector inatialized 
+// vector iteration 
